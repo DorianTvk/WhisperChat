@@ -1,8 +1,8 @@
-# Whisper ChatApp Project
+# Nyxora
 
 ## Project info
 
-**URL**: https://whisperchatting.netlify.app/
+**URL**: https://nyxora.netlify.app/
 
 ## What technologies are used for this project?
 
